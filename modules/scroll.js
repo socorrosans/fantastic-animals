@@ -33,7 +33,7 @@ export function initAnimeScroll(){
         const isSectionVisible = (sectionTop - windowHalf) < 0
         if(isSectionVisible){
           section.classList.add('active')
-        } else {
+        } else if(section.classList.contains('active')){
           section.classList.remove('active')
         }
       })
