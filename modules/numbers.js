@@ -30,5 +30,3 @@ export default function initAnimeNumbers(){
   const observeTarget = document.querySelector('.numbers')
   observer.observe(observeTarget, {attributes: true})
 }
-
-
