@@ -8,6 +8,7 @@ import initMenuMobile from "./modules/menu-mobile.js";
 import initAnimeNumbers from "./modules/numbers.js";
 import initOpeningHours from "./modules/opening-hours.js";
 import initFetchAnimals from "./modules/fetch-animals.js";
+import initFetchBitcoin from "./modules/fetch-bitcoin.js";
 
 initAnimeScroll()
 initSmoothScroll()
@@ -20,3 +21,4 @@ initMenuMobile()
 initAnimeNumbers()
 initOpeningHours()
 initFetchAnimals()
+initFetchBitcoin()

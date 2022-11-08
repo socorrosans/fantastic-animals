@@ -313,3 +313,10 @@ body {
 [data-week].open::after {
   background: #3f4;
 }
+
+.price-btc {
+  font-weight: bold;
+  background: #3f4;
+  padding: .2rem .5rem;
+  border-radius: 2px;
+}
