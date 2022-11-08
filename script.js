@@ -7,6 +7,7 @@ import initDropdownMenu from "./modules/dropdown-menu.js";
 import initMenuMobile from "./modules/menu-mobile.js";
 import initAnimeNumbers from "./modules/numbers.js";
 import initOpeningHours from "./modules/opening-hours.js";
+import initFetchAnimals from "./modules/fetch-animals.js";
 
 initAnimeScroll()
 initSmoothScroll()
@@ -18,3 +19,4 @@ initDropdownMenu()
 initMenuMobile()
 initAnimeNumbers()
 initOpeningHours()
+initFetchAnimals()
